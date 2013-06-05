@@ -1,3 +1,8 @@
+//     --
+//     TypeCheck.js 0.0.1.α
+//     Copyright (c) 2013 Dimitris Kyriazopoulos, jim.feedback @ gmail.com
+//     MIT Lincesed - http://opensource.org/licenses/MIT
+//     -
 function start() {
 
                 //Not yet used. To track the most used/edited parameters and bubble them up for easier access.
